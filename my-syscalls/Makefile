@@ -1,0 +1,1 @@
+obj-y := lsmod-syscall.o dentry-syscall.o
